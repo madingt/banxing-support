@@ -4,3 +4,5 @@
 
 - 支持页：`support/`
 - 隐私政策：`privacy/`
+- English support: `en/support/`
+- English privacy policy: `en/privacy/`（由 `Support.en.md`、`PrivacyPolicy.en.md` 生成）
